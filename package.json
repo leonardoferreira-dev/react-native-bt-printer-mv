@@ -1,6 +1,6 @@
 {
   "name": "react-native-bt-printer-mv",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React-Native plugin for the bluetooth ESC/POS printers.",
   "main": "index.js",
   "repository": {
