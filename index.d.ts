@@ -1,4 +1,4 @@
-declare module "react-native" {
+declare module "react-native-bt-printer-mv" {
   interface BluetoothTscPrinter {
     DIRECTION: {
       FORWARD: number;
